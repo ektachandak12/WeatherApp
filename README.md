@@ -62,8 +62,8 @@ WeatherApp/
 
 
 ## 👩‍💻 Author
-Ekta Naresh Chandak
-B.Tech in Artificial Intelligence & Data Science
+-Ekta Naresh Chandak
+-B.Tech in Artificial Intelligence & Data Science
 
 ## 📄 License
 This project is for educational purposes only.
