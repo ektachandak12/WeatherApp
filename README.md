@@ -51,6 +51,7 @@ javac -cp .;json.jar WeatherApp.java
 java -cp .;json.jar WeatherApp
 Note: You must include json.jar (e.g., org.json library) in your classpath. You can download it from https://github.com/stleary/JSON-java or use Maven/Gradle for dependency management.
 ```
+---
 
 ## 📂 Project Structure
 
@@ -60,10 +61,14 @@ WeatherApp/
 ├── README.md
 └── json.jar         # (External library)
 
+---
 
 ## 👩‍💻 Author
--Ekta Naresh Chandak
--B.Tech in Artificial Intelligence & Data Science
+**Ekta Naresh Chandak**
+B.Tech in Artificial Intelligence & Data Science
+
+---
 
 ## 📄 License
+
 This project is for educational purposes only.
