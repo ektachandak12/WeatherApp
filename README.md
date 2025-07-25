@@ -64,6 +64,7 @@ WeatherApp/
 ---
 
 ## 👩‍💻 Author
+
 **Ekta Naresh Chandak**
 B.Tech in Artificial Intelligence & Data Science
 
